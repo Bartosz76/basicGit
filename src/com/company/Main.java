@@ -10,6 +10,8 @@ public class Main {
 
         System.out.println("branch ficzer");
 
+        System.out.println("Koniec refactoru ficzera5");
+
 
 
     }
