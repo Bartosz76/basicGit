@@ -6,5 +6,7 @@ public class Main {
 
         System.out.println("Kod główny bez brancha.");
 
+        System.out.println("branch ficzer");
+
     }
 }
