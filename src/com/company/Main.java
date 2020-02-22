@@ -14,5 +14,7 @@ public class Main {
 
         System.out.println("to jest super kod z ficzera 3");
 
+        System.out.println("to jest super kod z ficzera 4");
+
     }
 }
