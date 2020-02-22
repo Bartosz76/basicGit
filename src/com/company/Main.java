@@ -8,5 +8,7 @@ public class Main {
 
         System.out.println("siema siema to jest branch person");
 
+        System.out.println("branch ficzer");
+
     }
 }
