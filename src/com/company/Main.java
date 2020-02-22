@@ -10,5 +10,7 @@ public class Main {
 
         System.out.println("branch ficzer");
 
+        System.out.println("to jest super kod z ficzera 2");
+
     }
 }
